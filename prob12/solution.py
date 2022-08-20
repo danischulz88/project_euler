@@ -14,4 +14,3 @@ while n_div<=500:
     n_div=bib.divisores(triangular)
 
 print('k={}, triang={}, n_div={}'.format(k, triangular, n_div))
-
